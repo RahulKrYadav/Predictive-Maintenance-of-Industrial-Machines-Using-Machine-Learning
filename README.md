@@ -1,1 +1,1 @@
-# Predictive-Maintenance-of-Industrial-Machines-Using-Machine-Learning
+# Predictive-Maintenance-of-Machines-Using-Machine-Learning
